@@ -1,0 +1,66 @@
+body{
+    
+    background-image: url(./bkg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+p{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+.box-1{
+    height: 100px;
+    width: 100%;
+    background-color: gray;
+    justify-content: center;
+
+}
+#second-images{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-shot-ma-shan-country-park-hong-kong_181624-47956.jpg?t=st=1709706967~exp=1709710567~hmac=e7b6eefcdb0fdd92b777e229dfb602751b752d5352edf9abaac564795d77b9a3&w=826");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+}
+#hiking{
+    position: absolute;
+    width: 540px;
+    text-align: center;
+    text-align: center;
+    font-size: 23px;
+    color:white
+}
+#relax{
+    display: flex;
+    background-size: cover;
+    justify-content: center;  
+   
+   
+}
+
+h2{
+    text-align: center;
+}
+
+#relax>img{
+    height: 100px;
+    width: 100px;
+}
